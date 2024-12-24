@@ -1,1 +1,1 @@
-# N_M_A_P_I
+This is Django Rest API Project
